@@ -1,0 +1,22 @@
+Parsowanie kodu
+Klasa posiadająca metody do działania na plikach .c
+
+Klasa podziedziczona dla pętli:
+1. Zlicza pętle w pliku (wyświetla wynik w konsoli)
+2. Zlicza liczbę funkcji w pliku (wyświetla wynik w konsoli)
+
+Klasa podziedziczona dla typów:
+1. Zlicza int (wyświetla wynik w konsoli)
+2. Zlicza void (wyświetla wynik w konsoli)
+3. Zlicza float (wyświetla wynik w konsoli) 
+
+Klasa podziedziczona dla include:
+1. Tworzy nowy plik z listą include'ów
+
+bat file to run script:
+@echo off
+
+zmienna do ktorej przypisuje sciezke do pajtona
+Skrpt w konsoli posiada menu: 
+Wybór czy działania dla pętli czy typów.
+Następnie pojawia się lista wszystkich metod do wyboru. Po wyborze ma zostać wykonana dana metoda i powrócić do listy z metodami. 
